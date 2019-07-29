@@ -1,0 +1,17 @@
+.*
+!.gitignore
+*.iml
+*.ipr
+*.iws
+*.pyc
+*.tar.gz
+**/target/
+**/.metadata
+**/.classpath
+**/.project
+**/.settings
+**/tmp/
+**/classes
+**/out
+**/build
+local.properties
